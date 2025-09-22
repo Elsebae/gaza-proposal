@@ -34,7 +34,7 @@ o	Three main sections: Air, Water, Agriculture.
 o	Graphs comparing Gaza’s environment before and after war.
 o	Articles with solutions informed by NASA data.
 o	Media gallery (photos, sample video).
-8. Conclusion & Call to Action
+6. Conclusion & Call to Action
 This project demonstrates how NASA Earth science data can be used to guide sustainable rebuilding in Gaza. By focusing on air, water, and agriculture, and presenting information through an engaging frontend website, we provide a practical, data-driven tool for urban planners, NGOs, and communities.
 👉 We invite judges, mentors, and partners to support expanding this prototype into a long-term platform for climate-resilient urban planning.
 
